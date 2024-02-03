@@ -29,6 +29,10 @@ Before you begin, ensure you have met the following requirements:
 4. Start the development server:
 
     npm start
+
+   or
+
+   npm run dev
    
 Open your browser and go to http://localhost:3000.
 
@@ -37,5 +41,7 @@ You should see your ReactJS application running.
 #Additional Information
 
 Modify the code in the src directory to customize the functionality.
+
 Add or update components in the src/components directory.
+
 Adjust styles in the src/styles directory.
